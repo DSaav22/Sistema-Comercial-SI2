@@ -1,0 +1,87 @@
+[
+    { "model": "quickstart.producto", "pk": 1, "fields": { "categoria": 1, "nombre": "iPhone 14", "tipo": "Smartphone", "medidas": "146.7x71.5x7.8 mm", "precio": 1200.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 2, "fields": { "categoria": 1, "nombre": "Samsung Galaxy S23", "tipo": "Smartphone", "medidas": "146.3x70.9x7.6 mm", "precio": 1100.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 3, "fields": { "categoria": 1, "nombre": "Xiaomi Redmi Note 12", "tipo": "Smartphone", "medidas": "165.7x76x7.9 mm", "precio": 350.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 4, "fields": { "categoria": 1, "nombre": "Motorola Moto G82", "tipo": "Smartphone", "medidas": "160.9x74.5x8 mm", "precio": 400.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 5, "fields": { "categoria": 1, "nombre": "Huawei P50 Pro", "tipo": "Smartphone", "medidas": "158.8x72.8x8.5 mm", "precio": 950.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 6, "fields": { "categoria": 2, "nombre": "MacBook Air M2", "tipo": "Laptop", "medidas": "304x215x11.3 mm", "precio": 1500.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 7, "fields": { "categoria": 2, "nombre": "Dell XPS 13", "tipo": "Laptop", "medidas": "295.7x198.7x14.8 mm", "precio": 1400.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 8, "fields": { "categoria": 2, "nombre": "HP Pavilion 15", "tipo": "Laptop", "medidas": "360x234x17.9 mm", "precio": 900.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 9, "fields": { "categoria": 2, "nombre": "Lenovo ThinkPad X1", "tipo": "Laptop", "medidas": "323x217x14.9 mm", "precio": 1700.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 10, "fields": { "categoria": 2, "nombre": "Asus VivoBook 14", "tipo": "Laptop", "medidas": "324x215x19.9 mm", "precio": 800.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 11, "fields": { "categoria": 3, "nombre": "iPad Pro 12.9", "tipo": "Tablet", "medidas": "280.6x214.9x6.4 mm", "precio": 1300.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 12, "fields": { "categoria": 3, "nombre": "Samsung Galaxy Tab S8", "tipo": "Tablet", "medidas": "253.8x165.3x6.3 mm", "precio": 900.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 13, "fields": { "categoria": 3, "nombre": "Lenovo Tab P11", "tipo": "Tablet", "medidas": "258.4x163x7.5 mm", "precio": 400.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 14, "fields": { "categoria": 3, "nombre": "Huawei MatePad 11", "tipo": "Tablet", "medidas": "253.8x165.3x7.3 mm", "precio": 500.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 15, "fields": { "categoria": 4, "nombre": "Auriculares Sony WH-1000XM4", "tipo": "Auriculares", "medidas": "196x174x45 mm", "precio": 350.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 16, "fields": { "categoria": 4, "nombre": "JBL Flip 6", "tipo": "Parlante Bluetooth", "medidas": "178x68x72 mm", "precio": 120.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 17, "fields": { "categoria": 4, "nombre": "Apple AirPods Pro", "tipo": "Auriculares", "medidas": "30.9x21.8x24 mm", "precio": 250.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 18, "fields": { "categoria": 4, "nombre": "Logitech Z313", "tipo": "Parlantes", "medidas": "220x150x230 mm", "precio": 80.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 19, "fields": { "categoria": 5, "nombre": "Smartwatch Samsung Galaxy Watch 5", "tipo": "Smartwatch", "medidas": "44.4x43.3x9.8 mm", "precio": 350.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 20, "fields": { "categoria": 5, "nombre": "Apple Watch Series 8", "tipo": "Smartwatch", "medidas": "45x38x10.7 mm", "precio": 500.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 21, "fields": { "categoria": 1, "nombre": "Realme 11 Pro", "tipo": "Smartphone", "medidas": "161.7x73.9x8.2 mm", "precio": 420.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 22, "fields": { "categoria": 1, "nombre": "Oppo Reno 8", "tipo": "Smartphone", "medidas": "160.6x73.4x7.7 mm", "precio": 600.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 23, "fields": { "categoria": 1, "nombre": "Google Pixel 7", "tipo": "Smartphone", "medidas": "155.6x73.2x8.7 mm", "precio": 900.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 24, "fields": { "categoria": 1, "nombre": "OnePlus Nord 3", "tipo": "Smartphone", "medidas": "162.7x75.1x8.2 mm", "precio": 500.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 25, "fields": { "categoria": 1, "nombre": "Vivo V27", "tipo": "Smartphone", "medidas": "164.1x74.8x7.4 mm", "precio": 450.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 26, "fields": { "categoria": 2, "nombre": "Acer Aspire 5", "tipo": "Laptop", "medidas": "363x238x17.9 mm", "precio": 700.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 27, "fields": { "categoria": 2, "nombre": "MSI Modern 14", "tipo": "Laptop", "medidas": "319x220x16.9 mm", "precio": 950.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 28, "fields": { "categoria": 2, "nombre": "Apple MacBook Pro 16", "tipo": "Laptop", "medidas": "355.7x248.1x16.8 mm", "precio": 2500.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 29, "fields": { "categoria": 2, "nombre": "HP Envy x360", "tipo": "Laptop", "medidas": "324x222x16.9 mm", "precio": 1200.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 30, "fields": { "categoria": 2, "nombre": "Lenovo IdeaPad 3", "tipo": "Laptop", "medidas": "362x253x19.9 mm", "precio": 650.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 31, "fields": { "categoria": 3, "nombre": "Amazon Fire HD 10", "tipo": "Tablet", "medidas": "247x166x9.2 mm", "precio": 200.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 32, "fields": { "categoria": 3, "nombre": "Microsoft Surface Pro 9", "tipo": "Tablet", "medidas": "287x209x9.3 mm", "precio": 1800.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 33, "fields": { "categoria": 3, "nombre": "Samsung Galaxy Tab A8", "tipo": "Tablet", "medidas": "246.8x161.9x6.9 mm", "precio": 300.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 34, "fields": { "categoria": 3, "nombre": "Apple iPad Mini 6", "tipo": "Tablet", "medidas": "195.4x134.8x6.3 mm", "precio": 650.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 35, "fields": { "categoria": 3, "nombre": "Huawei MatePad T10", "tipo": "Tablet", "medidas": "240.2x159x7.9 mm", "precio": 220.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 36, "fields": { "categoria": 4, "nombre": "Bose QuietComfort 45", "tipo": "Auriculares", "medidas": "184x152x76 mm", "precio": 330.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 37, "fields": { "categoria": 4, "nombre": "Marshall Emberton II", "tipo": "Parlante Bluetooth", "medidas": "68x160x76 mm", "precio": 180.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 38, "fields": { "categoria": 4, "nombre": "Sony SRS-XB13", "tipo": "Parlante Bluetooth", "medidas": "74x74x92 mm", "precio": 60.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 39, "fields": { "categoria": 4, "nombre": "JBL Tune 510BT", "tipo": "Auriculares", "medidas": "223x186x48 mm", "precio": 70.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 40, "fields": { "categoria": 4, "nombre": "Logitech G560", "tipo": "Parlantes", "medidas": "166x118x181 mm", "precio": 250.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 41, "fields": { "categoria": 5, "nombre": "Fitbit Versa 4", "tipo": "Smartwatch", "medidas": "40.5x40.5x12.3 mm", "precio": 220.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 42, "fields": { "categoria": 5, "nombre": "Garmin Forerunner 255", "tipo": "Smartwatch", "medidas": "45.6x45.6x12.9 mm", "precio": 350.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 43, "fields": { "categoria": 5, "nombre": "Amazfit GTR 4", "tipo": "Smartwatch", "medidas": "46x46x10.6 mm", "precio": 200.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 44, "fields": { "categoria": 5, "nombre": "Xiaomi Mi Band 7", "tipo": "Smartband", "medidas": "46.5x20.7x12.25 mm", "precio": 60.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 45, "fields": { "categoria": 5, "nombre": "Huawei Watch GT 3", "tipo": "Smartwatch", "medidas": "45.9x45.9x11 mm", "precio": 300.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 46, "fields": { "categoria": 1, "nombre": "Nokia G60", "tipo": "Smartphone", "medidas": "165.9x75.9x8.6 mm", "precio": 320.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 47, "fields": { "categoria": 1, "nombre": "Sony Xperia 10 IV", "tipo": "Smartphone", "medidas": "153x67x8.3 mm", "precio": 600.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 48, "fields": { "categoria": 1, "nombre": "Asus Zenfone 9", "tipo": "Smartphone", "medidas": "146.5x68.1x9.1 mm", "precio": 800.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 49, "fields": { "categoria": 1, "nombre": "Poco F5 Pro", "tipo": "Smartphone", "medidas": "162.8x75.4x8.6 mm", "precio": 550.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 50, "fields": { "categoria": 1, "nombre": "Tecno Camon 20", "tipo": "Smartphone", "medidas": "163.4x76.7x8.2 mm", "precio": 250.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 51, "fields": { "categoria": 2, "nombre": "Samsung Galaxy Book 3", "tipo": "Laptop", "medidas": "356.6x229.1x15.4 mm", "precio": 1300.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 52, "fields": { "categoria": 2, "nombre": "Razer Blade 15", "tipo": "Laptop", "medidas": "355x235x16.99 mm", "precio": 2200.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 53, "fields": { "categoria": 2, "nombre": "Dell Inspiron 15", "tipo": "Laptop", "medidas": "358.5x235.5x19.9 mm", "precio": 850.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 54, "fields": { "categoria": 2, "nombre": "HP EliteBook 840", "tipo": "Laptop", "medidas": "321.9x213.9x17.9 mm", "precio": 1600.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 55, "fields": { "categoria": 2, "nombre": "Lenovo Yoga Slim 7", "tipo": "Laptop", "medidas": "320.6x208.2x14.9 mm", "precio": 1200.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 56, "fields": { "categoria": 3, "nombre": "Alcatel 1T 10", "tipo": "Tablet", "medidas": "255x155x9.4 mm", "precio": 150.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 57, "fields": { "categoria": 3, "nombre": "Lenovo Tab M10", "tipo": "Tablet", "medidas": "241.5x149.4x8.3 mm", "precio": 250.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 58, "fields": { "categoria": 3, "nombre": "Samsung Galaxy Tab S6 Lite", "tipo": "Tablet", "medidas": "244.5x154.3x7 mm", "precio": 400.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 59, "fields": { "categoria": 3, "nombre": "Apple iPad 10th Gen", "tipo": "Tablet", "medidas": "248.6x179.5x7 mm", "precio": 700.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 60, "fields": { "categoria": 3, "nombre": "Huawei MatePad SE", "tipo": "Tablet", "medidas": "246.9x156.7x7.85 mm", "precio": 180.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 61, "fields": { "categoria": 4, "nombre": "JBL Charge 5", "tipo": "Parlante Bluetooth", "medidas": "223x96.5x94 mm", "precio": 180.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 62, "fields": { "categoria": 4, "nombre": "Sony WF-1000XM4", "tipo": "Auriculares", "medidas": "19.3x21.3x23.1 mm", "precio": 280.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 63, "fields": { "categoria": 4, "nombre": "Bose SoundLink Flex", "tipo": "Parlante Bluetooth", "medidas": "201x90x53 mm", "precio": 160.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 64, "fields": { "categoria": 4, "nombre": "Apple HomePod Mini", "tipo": "Parlante Inteligente", "medidas": "97.9x84.3 mm", "precio": 120.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 65, "fields": { "categoria": 4, "nombre": "Logitech Z906", "tipo": "Parlantes", "medidas": "292x166x93 mm", "precio": 350.00, "foto": "" } },
+  
+    { "model": "quickstart.producto", "pk": 66, "fields": { "categoria": 5, "nombre": "Samsung Galaxy Fit 2", "tipo": "Smartband", "medidas": "46.6x18.6x11.1 mm", "precio": 50.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 67, "fields": { "categoria": 5, "nombre": "Amazfit Bip U Pro", "tipo": "Smartwatch", "medidas": "40.9x35.5x11.4 mm", "precio": 70.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 68, "fields": { "categoria": 5, "nombre": "Garmin Venu Sq 2", "tipo": "Smartwatch", "medidas": "40.6x37x11.1 mm", "precio": 250.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 69, "fields": { "categoria": 5, "nombre": "Realme Watch 3", "tipo": "Smartwatch", "medidas": "45x37x11.5 mm", "precio": 60.00, "foto": "" } },
+    { "model": "quickstart.producto", "pk": 70, "fields": { "categoria": 5, "nombre": "Fitbit Charge 5", "tipo": "Smartband", "medidas": "36.7x22.7x11.2 mm", "precio": 130.00, "foto": "" } }
+  
+]

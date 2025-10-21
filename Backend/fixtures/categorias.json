@@ -1,0 +1,92 @@
+[
+    {
+      "model": "quickstart.categoria",
+      "pk": 1,
+      "fields": {
+        "nombre": "Celulares",
+        "descripcion": "Teléfonos móviles y smartphones",
+        "eliminado": false
+      }
+    },
+    {
+      "model": "quickstart.categoria",
+      "pk": 2,
+      "fields": {
+        "nombre": "Laptops",
+        "descripcion": "Computadoras portátiles",
+        "eliminado": false
+      }
+    },
+    {
+      "model": "quickstart.categoria",
+      "pk": 3,
+      "fields": {
+        "nombre": "Tablets",
+        "descripcion": "Tablets y dispositivos táctiles",
+        "eliminado": false
+      }
+    },
+    {
+      "model": "quickstart.categoria",
+      "pk": 4,
+      "fields": {
+        "nombre": "Accesorios",
+        "descripcion": "Accesorios electrónicos varios",
+        "eliminado": false
+      }
+    },
+    {
+      "model": "quickstart.categoria",
+      "pk": 5,
+      "fields": {
+        "nombre": "Audio",
+        "descripcion": "Auriculares, parlantes y equipos de sonido",
+        "eliminado": false
+      }
+    },
+    {
+        "model": "quickstart.categoria",
+        "pk": 6,
+        "fields": {
+          "nombre": "Smartwatches",
+          "descripcion": "Relojes inteligentes y wearables",
+          "eliminado": false
+        }
+      },
+      {
+        "model": "quickstart.categoria",
+        "pk": 7,
+        "fields": {
+          "nombre": "Componentes",
+          "descripcion": "Componentes y partes para computadoras",
+          "eliminado": false
+        }
+      },
+      {
+        "model": "quickstart.categoria",
+        "pk": 8,
+        "fields": {
+          "nombre": "Gaming",
+          "descripcion": "Consolas y accesorios para videojuegos",
+          "eliminado": false
+        }
+      },
+      {
+        "model": "quickstart.categoria",
+        "pk": 9,
+        "fields": {
+          "nombre": "Redes",
+          "descripcion": "Routers, módems y dispositivos de red",
+          "eliminado": false
+        }
+      },
+      {
+        "model": "quickstart.categoria",
+        "pk": 10,
+        "fields": {
+          "nombre": "Monitores",
+          "descripcion": "Monitores y pantallas",
+          "eliminado": false
+        }
+      }
+  ]

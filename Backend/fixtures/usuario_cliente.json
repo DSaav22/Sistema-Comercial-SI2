@@ -1,0 +1,1560 @@
+[
+    {
+      "model": "auth.user",
+      "pk": 1,
+      "fields": {
+        "username": "cliente1",
+        "email": "cliente1@correo.com",
+        "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+        "is_staff": false,
+        "is_superuser": false,
+        "is_active": true,
+        "groups": [2]
+      }
+    },
+    {
+        "model": "auth.user",
+        "pk": 2,
+        "fields": {
+          "username": "cliente2",
+          "email": "cliente2@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Carlos",
+          "last_name": "Rojas",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 3,
+        "fields": {
+          "username": "cliente3",
+          "email": "cliente3@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Lucía",
+          "last_name": "Gutiérrez",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 4,
+        "fields": {
+          "username": "cliente4",
+          "email": "cliente4@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "María",
+          "last_name": "Fernández",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 5,
+        "fields": {
+          "username": "cliente5",
+          "email": "cliente5@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Javier",
+          "last_name": "Mendoza",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 6,
+        "fields": {
+          "username": "cliente6",
+          "email": "cliente6@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Andrea",
+          "last_name": "Salazar",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 7,
+        "fields": {
+          "username": "cliente7",
+          "email": "cliente7@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Sofía",
+          "last_name": "Vargas",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 8,
+        "fields": {
+          "username": "cliente8",
+          "email": "cliente8@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Miguel",
+          "last_name": "Paz",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 9,
+        "fields": {
+          "username": "cliente9",
+          "email": "cliente9@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Valeria",
+          "last_name": "Ortiz",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 10,
+        "fields": {
+          "username": "cliente10",
+          "email": "cliente10@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "10",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 11,
+        "fields": {
+          "username": "cliente11",
+          "email": "cliente11@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "11",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 12,
+        "fields": {
+          "username": "cliente12",
+          "email": "cliente12@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "12",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 13,
+        "fields": {
+          "username": "cliente13",
+          "email": "cliente13@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "13",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 14,
+        "fields": {
+          "username": "cliente14",
+          "email": "cliente14@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "14",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 15,
+        "fields": {
+          "username": "cliente15",
+          "email": "cliente15@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "15",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 16,
+        "fields": {
+          "username": "cliente16",
+          "email": "cliente16@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "16",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 17,
+        "fields": {
+          "username": "cliente17",
+          "email": "cliente17@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "17",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 18,
+        "fields": {
+          "username": "cliente18",
+          "email": "cliente18@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "18",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 19,
+        "fields": {
+          "username": "cliente19",
+          "email": "cliente19@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "19",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 20,
+        "fields": {
+          "username": "cliente20",
+          "email": "cliente20@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "20",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 21,
+        "fields": {
+          "username": "cliente21",
+          "email": "cliente22@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk",
+          "first_name": "Cliente",
+          "last_name": "21",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 22,
+        "fields": {
+          "username": "cliente22",
+          "email": "cliente23@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk",
+          "first_name": "Cliente",
+          "last_name": "22",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 23,
+        "fields": {
+          "username": "cliente23",
+          "email": "cliente23@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Martín",
+          "last_name": "23",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 24,
+        "fields": {
+          "username": "cliente24",
+          "email": "cliente24@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Camila",
+          "last_name": "24",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 25,
+        "fields": {
+          "username": "cliente25",
+          "email": "cliente25@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Santiago",
+          "last_name": "25",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 26,
+        "fields": {
+          "username": "cliente26",
+          "email": "cliente26@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Valentina",
+          "last_name": "26",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 27,
+        "fields": {
+          "username": "cliente27",
+          "email": "cliente27@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Mateo",
+          "last_name": "27",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 28,
+        "fields": {
+          "username": "cliente28",
+          "email": "cliente28@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Luciana",
+          "last_name": "28",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 29,
+        "fields": {
+          "username": "cliente29",
+          "email": "cliente29@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Agustín",
+          "last_name": "29",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 30,
+        "fields": {
+          "username": "cliente30",
+          "email": "cliente30@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Mía",
+          "last_name": "30",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 31,
+        "fields": {
+          "username": "cliente31",
+          "email": "cliente31@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Benjamín",
+          "last_name": "31",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 32,
+        "fields": {
+          "username": "cliente32",
+          "email": "cliente32@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Emma",
+          "last_name": "32",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 33,
+        "fields": {
+          "username": "cliente33",
+          "email": "cliente33@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Joaquín",
+          "last_name": "33",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 34,
+        "fields": {
+          "username": "cliente34",
+          "email": "cliente34@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Isabella",
+          "last_name": "34",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 35,
+        "fields": {
+          "username": "cliente35",
+          "email": "cliente35@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Tomás",
+          "last_name": "35",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 36,
+        "fields": {
+          "username": "cliente36",
+          "email": "cliente36@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Catalina",
+          "last_name": "36",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 37,
+        "fields": {
+          "username": "cliente37",
+          "email": "cliente37@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Felipe",
+          "last_name": "37",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 38,
+        "fields": {
+          "username": "cliente38",
+          "email": "cliente38@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Julieta",
+          "last_name": "38",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 39,
+        "fields": {
+          "username": "cliente39",
+          "email": "cliente39@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Juan",
+          "last_name": "39",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 40,
+        "fields": {
+          "username": "cliente40",
+          "email": "cliente40@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Renata",
+          "last_name": "40",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 41,
+        "fields": {
+          "username": "cliente41",
+          "email": "cliente41@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Valeria",
+          "last_name": "41",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 42,
+        "fields": {
+          "username": "cliente42",
+          "email": "cliente42@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Gabriel",
+          "last_name": "42",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 43,
+        "fields": {
+          "username": "cliente43",
+          "email": "cliente43@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Paula",
+          "last_name": "43",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 44,
+        "fields": {
+          "username": "cliente44",
+          "email": "cliente44@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Franco",
+          "last_name": "44",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 45,
+        "fields": {
+          "username": "cliente45",
+          "email": "cliente45@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Florencia",
+          "last_name": "45",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 46,
+        "fields": {
+          "username": "cliente46",
+          "email": "cliente46@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Bruno",
+          "last_name": "46",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 47,
+        "fields": {
+          "username": "cliente47",
+          "email": "cliente47@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Julia",
+          "last_name": "47",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 48,
+        "fields": {
+          "username": "cliente48",
+          "email": "cliente48@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Nicolás",
+          "last_name": "48",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 49,
+        "fields": {
+          "username": "cliente49",
+          "email": "cliente49@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Lautaro",
+          "last_name": "49",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 50,
+        "fields": {
+          "username": "cliente50",
+          "email": "cliente50@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Carla",
+          "last_name": "50",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 51,
+        "fields": {
+          "username": "cliente51",
+          "email": "cliente51@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Manuel",
+          "last_name": "51",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 52,
+        "fields": {
+          "username": "cliente52",
+          "email": "cliente52@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Victoria",
+          "last_name": "52",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 53,
+        "fields": {
+          "username": "cliente53",
+          "email": "cliente53@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Pedro",
+          "last_name": "53",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 54,
+        "fields": {
+          "username": "cliente54",
+          "email": "cliente54@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Sol",
+          "last_name": "54",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 55,
+        "fields": {
+          "username": "cliente55",
+          "email": "cliente55@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Lucas",
+          "last_name": "55",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 56,
+        "fields": {
+          "username": "cliente56",
+          "email": "cliente56@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Martina",
+          "last_name": "56",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 57,
+        "fields": {
+          "username": "cliente57",
+          "email": "cliente57@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Diego",
+          "last_name": "57",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 58,
+        "fields": {
+          "username": "cliente58",
+          "email": "cliente58@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Elena",
+          "last_name": "58",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 59,
+        "fields": {
+          "username": "cliente59",
+          "email": "cliente59@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Facundo",
+          "last_name": "59",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 60,
+        "fields": {
+          "username": "cliente60",
+          "email": "cliente60@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Ana",
+          "last_name": "60",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 61,
+        "fields": {
+          "username": "cliente61",
+          "email": "cliente61@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Sofía",
+          "last_name": "61",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 62,
+        "fields": {
+          "username": "cliente62",
+          "email": "cliente62@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Agustina",
+          "last_name": "62",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 63,
+        "fields": {
+          "username": "cliente63",
+          "email": "cliente63@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Ramiro",
+          "last_name": "63",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 64,
+        "fields": {
+          "username": "cliente64",
+          "email": "cliente64@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cecilia",
+          "last_name": "64",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 65,
+        "fields": {
+          "username": "cliente65",
+          "email": "cliente65@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Pablo",
+          "last_name": "65",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 66,
+        "fields": {
+          "username": "cliente66",
+          "email": "cliente66@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Milagros",
+          "last_name": "66",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 67,
+        "fields": {
+          "username": "cliente67",
+          "email": "cliente67@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Federico",
+          "last_name": "67",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 68,
+        "fields": {
+          "username": "cliente68",
+          "email": "cliente68@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Rocío",
+          "last_name": "68",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 69,
+        "fields": {
+          "username": "cliente69",
+          "email": "cliente69@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Iván",
+          "last_name": "69",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 70,
+        "fields": {
+          "username": "cliente70",
+          "email": "cliente70@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Ailén",
+          "last_name": "70",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 71,
+        "fields": {
+          "username": "cliente71",
+          "email": "cliente71@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Ezequiel",
+          "last_name": "71",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 72,
+        "fields": {
+          "username": "cliente72",
+          "email": "cliente72@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Malena",
+          "last_name": "72",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 73,
+        "fields": {
+          "username": "cliente73",
+          "email": "cliente73@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Guadalupe",
+          "last_name": "73",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 74,
+        "fields": {
+          "username": "cliente74",
+          "email": "cliente74@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Simón",
+          "last_name": "74",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 75,
+        "fields": {
+          "username": "cliente75",
+          "email": "cliente75@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Martina",
+          "last_name": "75",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 76,
+        "fields": {
+          "username": "cliente76",
+          "email": "cliente76@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Marcos",
+          "last_name": "76",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 77,
+        "fields": {
+          "username": "cliente77",
+          "email": "cliente77@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Candelaria",
+          "last_name": "77",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 78,
+        "fields": {
+          "username": "cliente78",
+          "email": "cliente78@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Brenda",
+          "last_name": "78",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 79,
+        "fields": {
+          "username": "cliente79",
+          "email": "cliente79@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Sebastián",
+          "last_name": "79",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 80,
+        "fields": {
+          "username": "cliente80",
+          "email": "cliente80@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Ariana",
+          "last_name": "80",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 81,
+        "fields": {
+          "username": "cliente81",
+          "email": "cliente81@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Leandro",
+          "last_name": "81",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 82,
+        "fields": {
+          "username": "cliente82",
+          "email": "cliente82@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Camilo",
+          "last_name": "82",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 83,
+        "fields": {
+          "username": "cliente83",
+          "email": "cliente83@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Marina",
+          "last_name": "83",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 84,
+        "fields": {
+          "username": "cliente84",
+          "email": "cliente84@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Aldana",
+          "last_name": "84",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 85,
+        "fields": {
+          "username": "cliente85",
+          "email": "cliente85@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Damián",
+          "last_name": "85",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 86,
+        "fields": {
+          "username": "cliente86",
+          "email": "cliente86@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Tamara",
+          "last_name": "86",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 87,
+        "fields": {
+          "username": "cliente87",
+          "email": "cliente87@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Lisandro",
+          "last_name": "87",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 88,
+        "fields": {
+          "username": "cliente88",
+          "email": "cliente88@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Lorena",
+          "last_name": "88",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 89,
+        "fields": {
+          "username": "cliente89",
+          "email": "cliente89@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Patricio",
+          "last_name": "89",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 90,
+        "fields": {
+          "username": "cliente90",
+          "email": "cliente90@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Melina",
+          "last_name": "90",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 91,
+        "fields": {
+          "username": "cliente91",
+          "email": "cliente91@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Ariel",
+          "last_name": "91",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 92,
+        "fields": {
+          "username": "cliente92",
+          "email": "cliente92@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Mauro",
+          "last_name": "92",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 93,
+        "fields": {
+          "username": "cliente93",
+          "email": "cliente93@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Celeste",
+          "last_name": "93",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 94,
+        "fields": {
+          "username": "cliente94",
+          "email": "cliente94@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Aixa",
+          "last_name": "94",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 95,
+        "fields": {
+          "username": "cliente95",
+          "email": "cliente95@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Emanuel",
+          "last_name": "95",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 96,
+        "fields": {
+          "username": "cliente96",
+          "email": "cliente96@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Noelia",
+          "last_name": "96",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 97,
+        "fields": {
+          "username": "cliente97",
+          "email": "cliente97@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Aldo",
+          "last_name": "97",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 98,
+        "fields": {
+          "username": "cliente98",
+          "email": "cliente98@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Tamia",
+          "last_name": "98",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 99,
+        "fields": {
+          "username": "cliente99",
+          "email": "cliente99@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Cliente",
+          "last_name": "99",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 100,
+        "fields": {
+          "username": "cliente100",
+          "email": "cliente100@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Gisela",
+          "last_name": "100",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 101,
+        "fields": {
+          "username": "cliente101",
+          "email": "cliente101@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Ulises",
+          "last_name": "101",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 102,
+        "fields": {
+          "username": "cliente102",
+          "email": "cliente102@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Mirta",
+          "last_name": "102",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 103,
+        "fields": {
+          "username": "cliente103",
+          "email": "cliente103@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Jonás",
+          "last_name": "103",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      },
+      {
+        "model": "auth.user",
+        "pk": 104,
+        "fields": {
+          "username": "cliente104",
+          "email": "cliente104@correo.com",
+          "password": "pbkdf2_sha256$600000$w6Q4v7Zp7Q9n$wQk7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ7n6pQ2vQ=",
+          "first_name": "Pamela",
+          "last_name": "104",
+          "is_staff": false,
+          "is_superuser": false,
+          "is_active": true,
+          "groups": [2]
+        }
+      }
+  ]

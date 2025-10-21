@@ -1,0 +1,128 @@
+[
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 1,
+        "fields": {
+            "id_carrito": 1,
+            "id_producto": 10,
+            "cantidad": 5
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 2,
+        "fields": {
+            "id_carrito": 1,
+            "id_producto": 11,
+            "cantidad": 2
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 3,
+        "fields": {
+            "id_carrito": 2,
+            "id_producto": 10,
+            "cantidad": 1
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 4,
+        "fields": {
+            "id_carrito": 2,
+            "id_producto": 12,
+            "cantidad": 3
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 5,
+        "fields": {
+            "id_carrito": 3,
+            "id_producto": 13,
+            "cantidad": 2
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 6,
+        "fields": {
+            "id_carrito": 3,
+            "id_producto": 14,
+            "cantidad": 4
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 7,
+        "fields": {
+            "id_carrito": 4,
+            "id_producto": 11,
+            "cantidad": 1
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 8,
+        "fields": {
+            "id_carrito": 4,
+            "id_producto": 15,
+            "cantidad": 3
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 9,
+        "fields": {
+            "id_carrito": 5,
+            "id_producto": 10,
+            "cantidad": 2
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 10,
+        "fields": {
+            "id_carrito": 5,
+            "id_producto": 13,
+            "cantidad": 5
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 11,
+        "fields": {
+            "id_carrito": 6,
+            "id_producto": 12,
+            "cantidad": 1
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 12,
+        "fields": {
+            "id_carrito": 6,
+            "id_producto": 14,
+            "cantidad": 2
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 13,
+        "fields": {
+            "id_carrito": 7,
+            "id_producto": 15,
+            "cantidad": 4
+        }
+    },
+    {
+        "model": "quickstart.detallecarrito",
+        "pk": 14,
+        "fields": {
+            "id_carrito": 7,
+            "id_producto": 11,
+            "cantidad": 2
+        }
+    }
+]

@@ -1,0 +1,236 @@
+[
+    {
+        "model": "quickstart.inventario",
+        "pk": 12,
+        "fields": {
+            "producto": 69,
+            "cantidad": 11,
+            "sucursal": 3
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 13,
+        "fields": {
+            "producto": 70,
+            "cantidad": 16,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 15,
+        "fields": {
+            "producto": 59,
+            "cantidad": 13,
+            "sucursal": 3
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 16,
+        "fields": {
+            "producto": 60,
+            "cantidad": 17,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 17,
+        "fields": {
+            "producto": 61,
+            "cantidad": 4,
+            "sucursal": 2
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 18,
+        "fields": {
+            "producto": 62,
+            "cantidad": 19,
+            "sucursal": 3
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 19,
+        "fields": {
+            "producto": 63,
+            "cantidad": 3,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 20,
+        "fields": {
+            "producto": 64,
+            "cantidad": 21,
+            "sucursal": 2
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 21,
+        "fields": {
+            "producto": 65,
+            "cantidad": 8,
+            "sucursal": 3
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 22,
+        "fields": {
+            "producto": 66,
+            "cantidad": 12,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 23,
+        "fields": {
+            "producto": 67,
+            "cantidad": 10,
+            "sucursal": 2
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 24,
+        "fields": {
+            "producto": 68,
+            "cantidad": 15,
+            "sucursal": 3
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 25,
+        "fields": {
+            "producto": 69,
+            "cantidad": 9,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 26,
+        "fields": {
+            "producto": 70,
+            "cantidad": 14,
+            "sucursal": 2
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 27,
+        "fields": {
+            "producto": 58,
+            "cantidad": 11,
+            "sucursal": 3
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 28,
+        "fields": {
+            "producto": 59,
+            "cantidad": 7,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 29,
+        "fields": {
+            "producto": 60,
+            "cantidad": 20,
+            "sucursal": 2
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 30,
+        "fields": {
+            "producto": 61,
+            "cantidad": 5,
+            "sucursal": 3
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 31,
+        "fields": {
+            "producto": 62,
+            "cantidad": 18,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 32,
+        "fields": {
+            "producto": 63,
+            "cantidad": 9,
+            "sucursal": 2
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 34,
+        "fields": {
+            "producto": 65,
+            "cantidad": 6,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 35,
+        "fields": {
+            "producto": 66,
+            "cantidad": 22,
+            "sucursal": 2
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 36,
+        "fields": {
+            "producto": 67,
+            "cantidad": 10,
+            "sucursal": 3
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 37,
+        "fields": {
+            "producto": 68,
+            "cantidad": 15,
+            "sucursal": 1
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 38,
+        "fields": {
+            "producto": 69,
+            "cantidad": 8,
+            "sucursal": 2
+        }
+    },
+    {
+        "model": "quickstart.inventario",
+        "pk": 39,
+        "fields": {
+            "producto": 70,
+            "cantidad": 12,
+            "sucursal": 3
+        }
+    }
+]

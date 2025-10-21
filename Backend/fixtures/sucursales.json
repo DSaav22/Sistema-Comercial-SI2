@@ -1,0 +1,38 @@
+[
+    {
+      "model": "quickstart.sucursal",
+      "pk": 1,
+      "fields": {
+        "nombre": "Sucursal Centro",
+        "direccion": "Av. Cañoto #123, Centro, Santa Cruz de la Sierra",
+        "eliminado": false
+      }
+    },
+    {
+      "model": "quickstart.sucursal",
+      "pk": 2,
+      "fields": {
+        "nombre": "Sucursal Equipetrol",
+        "direccion": "Calle 9 Este #456, Equipetrol, Santa Cruz de la Sierra",
+        "eliminado": false
+      }
+    },
+    {
+      "model": "quickstart.sucursal",
+      "pk": 3,
+      "fields": {
+        "nombre": "Sucursal Urubó",
+        "direccion": "Av. Los Parques #789, Urubó, Santa Cruz de la Sierra",
+        "eliminado": false
+      }
+    },
+    {
+      "model": "quickstart.sucursal",
+      "pk": 4,
+      "fields": {
+        "nombre": "Sucursal Doble Vía La Guardia",
+        "direccion": "Doble Vía La Guardia Km 8, Santa Cruz de la Sierra",
+        "eliminado": false
+      }
+    }
+  ]

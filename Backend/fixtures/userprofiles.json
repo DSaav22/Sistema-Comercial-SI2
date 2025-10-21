@@ -1,0 +1,835 @@
+[
+    {
+      "model": "quickstart.userprofile",
+      "pk": 1,
+      "fields": {
+        "user": 1,
+        "direccion": "Av. Beni #123, Santa Cruz de la Sierra"
+      }
+    },
+    {
+      "model": "quickstart.userprofile",
+      "pk": 2,
+      "fields": {
+        "user": 2,
+        "direccion": "Calle Libertad #456, Santa Cruz de la Sierra"
+      }
+    },
+    {
+      "model": "quickstart.userprofile",
+      "pk": 3,
+      "fields": {
+        "user": 3,
+        "direccion": "Av. Cristo Redentor #789, Santa Cruz de la Sierra"
+      }
+    },
+    {
+        "model": "quickstart.userprofile",
+        "pk": 4,
+        "fields": {
+          "user": 4,
+          "direccion": "Av. San Martín #321, Barrio Equipetrol, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 5,
+        "fields": {
+          "user": 5,
+          "direccion": "Calle Sucre #456, Zona Centro, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 6,
+        "fields": {
+          "user": 6,
+          "direccion": "Av. Santos Dumont #789, Barrio El Trompillo, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 7,
+        "fields": {
+          "user": 7,
+          "direccion": "Calle Ballivián #101, Barrio Sirari, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 8,
+        "fields": {
+          "user": 8,
+          "direccion": "Av. Virgen de Cotoca #202, Urbanización Cotoca, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 9,
+        "fields": {
+          "user": 9,
+          "direccion": "Calle 24 de Septiembre #303, Zona Casco Viejo, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 10,
+        "fields": {
+          "user": 10,
+          "direccion": "Av. Alemania #404, Barrio Hamacas, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 11,
+        "fields": {
+          "user": 11,
+          "direccion": "Calle Florida #505, Urbanización Las Palmas, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 12,
+        "fields": {
+          "user": 12,
+          "direccion": "Av. Cumavi #606, Barrio Mutualista, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 13,
+        "fields": {
+          "user": 13,
+          "direccion": "Calle Velarde #707, Zona Mercado Nuevo, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 14,
+        "fields": {
+          "user": 14,
+          "direccion": "Av. Piraí #808, Barrio Urbarí, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 15,
+        "fields": {
+          "user": 15,
+          "direccion": "Calle Charcas #909, Zona El Pari, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 16,
+        "fields": {
+          "user": 16,
+          "direccion": "Av. Tres Pasos al Frente #1010, Barrio Plan 3000, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 17,
+        "fields": {
+          "user": 17,
+          "direccion": "Calle Independencia #1111, Urbanización El Carmen, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 18,
+        "fields": {
+          "user": 18,
+          "direccion": "Av. Mutualista #1212, Barrio Villa Primero de Mayo, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 19,
+        "fields": {
+          "user": 19,
+          "direccion": "Calle Warnes #1313, Zona Los Pozos, Santa Cruz de la Sierra"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 20,
+        "fields": {
+          "user": 20,
+          "direccion": "Av. San Aurelio #1414, Barrio El Bajío, Santa Cruz de la Sierra"
+        }
+      },
+    {
+        "model": "quickstart.userprofile",
+        "pk": 21,
+        "fields": {
+          "user": 21,
+          "direccion": "Av. Beni"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 22,
+        "fields": {
+          "user": 22,
+          "direccion": "Calle Libertad"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 23,
+        "fields": {
+          "user": 23,
+          "direccion": "Av. Cristo Redentor"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 24,
+        "fields": {
+          "user": 24,
+          "direccion": "Calle Aroma"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 25,
+        "fields": {
+          "user": 25,
+          "direccion": "Av. Banzer"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 26,
+        "fields": {
+          "user": 26,
+          "direccion": "Calle Sucre"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 27,
+        "fields": {
+          "user": 27,
+          "direccion": "Av. Santos Dumont"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 28,
+        "fields": {
+          "user": 28,
+          "direccion": "Calle Ballivián"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 29,
+        "fields": {
+          "user": 29,
+          "direccion": "Av. Virgen de Cotoca"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 30,
+        "fields": {
+          "user": 30,
+          "direccion": "Calle 24 de Septiembre"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 31,
+        "fields": {
+          "user": 31,
+          "direccion": "Av. Alemania"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 32,
+        "fields": {
+          "user": 32,
+          "direccion": "Calle Florida"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 33,
+        "fields": {
+          "user": 33,
+          "direccion": "Av. Cumavi"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 34,
+        "fields": {
+          "user": 34,
+          "direccion": "Calle Velarde"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 35,
+        "fields": {
+          "user": 35,
+          "direccion": "Av. Piraí"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 36,
+        "fields": {
+          "user": 36,
+          "direccion": "Calle Charcas"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 37,
+        "fields": {
+          "user": 37,
+          "direccion": "Av. Tres Pasos al Frente"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 38,
+        "fields": {
+          "user": 38,
+          "direccion": "Calle Independencia"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 39,
+        "fields": {
+          "user": 39,
+          "direccion": "Av. Mutualista"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 40,
+        "fields": {
+          "user": 40,
+          "direccion": "Calle Warnes"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 41,
+        "fields": {
+          "user": 41,
+          "direccion": "Av. San Martín"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 42,
+        "fields": {
+          "user": 42,
+          "direccion": "Calle Aroma"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 43,
+        "fields": {
+          "user": 43,
+          "direccion": "Av. Banzer"
+        }
+      },
+      {
+        "model": "quickstart.userprofile",
+        "pk": 44,
+        "fields": {
+          "user": 44,
+          "direccion": "Calle Sucre"
+        }
+      },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 45,
+            "fields": {
+            "user": 45,
+            "direccion": "Av. Santos Dumont"
+            }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 46,
+            "fields": {
+            "user": 46,
+            "direccion": "Calle Ballivián"
+            }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 47,
+            "fields": {
+            "user": 47,
+            "direccion": "Av. Virgen de Cotoca"
+            }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 48,
+            "fields": {
+            "user": 48,
+            "direccion": "Calle 24 de Septiembre"
+            }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 49,
+            "fields": {
+            "user": 49,
+            "direccion": "Av. Alemania"
+            }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 50,
+            "fields": {
+            "user": 50,
+            "direccion": "Calle Florida"
+            }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 51,
+            "fields": {
+            "user": 51,
+            "direccion": "Av. Cumavi"
+            }
+        },  
+        {
+            "model": "quickstart.userprofile",
+            "pk": 52,
+            "fields": {
+            "user": 52,
+            "direccion": "Calle Velarde"
+            }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 53,
+            "fields": {
+            "user": 53,
+            "direccion": "Av. Piraí"
+            }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 54,
+            "fields": {
+            "user": 54,
+            "direccion": "Calle Charcas"
+            }
+        },
+        {
+          "model": "quickstart.userprofile",
+          "pk": 55,
+          "fields": {
+          "user": 55,
+          "direccion": "radial 26 zoologico"        
+         }
+        },
+        {
+            "model": "quickstart.userprofile",
+            "pk": 56,
+            "fields": {
+              "user": 56,
+              "direccion": "Av. Roca y Coronado"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 57,
+            "fields": {
+              "user": 57,
+              "direccion": "Calle Ñuflo de Chávez"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 58,
+            "fields": {
+              "user": 58,
+              "direccion": "Av. Santos Dumont"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 59,
+            "fields": {
+              "user": 59,
+              "direccion": "Calle Oruro"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 60,
+            "fields": {
+              "user": 60,
+              "direccion": "Av. Virgen de Luján"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 61,
+            "fields": {
+              "user": 61,
+              "direccion": "Calle Cochabamba"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 62,
+            "fields": {
+              "user": 62,
+              "direccion": "Av. Beni"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 63,
+            "fields": {
+              "user": 63,
+              "direccion": "Calle Florida"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 64,
+            "fields": {
+              "user": 64,
+              "direccion": "Av. Cumavi"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 65,
+            "fields": {
+              "user": 65,
+              "direccion": "Calle Velarde"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 66,
+            "fields": {
+              "user": 66,
+              "direccion": "Av. Piraí"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 67,
+            "fields": {
+              "user": 67,
+              "direccion": "Calle Charcas"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 68,
+            "fields": {
+              "user": 68,
+              "direccion": "Av. Tres Pasos al Frente"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 69,
+            "fields": {
+              "user": 69,
+              "direccion": "Calle Independencia"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 70,
+            "fields": {
+              "user": 70,
+              "direccion": "Av. Mutualista"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 71,
+            "fields": {
+              "user": 71,
+              "direccion": "Calle Warnes"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 72,
+            "fields": {
+              "user": 72,
+              "direccion": "Av. San Aurelio"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 73,
+            "fields": {
+              "user": 73,
+              "direccion": "Calle La Paz"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 74,
+            "fields": {
+              "user": 74,
+              "direccion": "Av. Santos Dumont"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 75,
+            "fields": {
+              "user": 75,
+              "direccion": "Calle Oruro"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 76,
+            "fields": {
+              "user": 76,
+              "direccion": "Av. El Trompillo"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 77,
+            "fields": {
+              "user": 77,
+              "direccion": "Calle Santa Bárbara"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 78,
+            "fields": {
+              "user": 78,
+              "direccion": "Av. Virgen de Guadalupe"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 79,
+            "fields": {
+              "user": 79,
+              "direccion": "Calle 21 de Mayo"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 80,
+            "fields": {
+              "user": 80,
+              "direccion": "Av. Santos Dumont #1000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 81,
+            "fields": {
+              "user": 81,
+              "direccion": "Calle Junín"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 82,
+            "fields": {
+              "user": 82,
+              "direccion": "Av. Centenario"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 83,
+            "fields": {
+              "user": 83,
+              "direccion": "Calle Colón"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 84,
+            "fields": {
+              "user": 84,
+              "direccion": "Av. Virgen de Fátima"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 85,
+            "fields": {
+              "user": 85,
+              "direccion": "Calle Tarija"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 86,
+            "fields": {
+              "user": 86,
+              "direccion": "Av. Cañoto"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 87,
+            "fields": {
+              "user": 87,
+              "direccion": "Calle Cochabamba"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 88,
+            "fields": {
+              "user": 88,
+              "direccion": "Av. Busch"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 89,
+            "fields": {
+              "user": 89,
+              "direccion": "Calle Independencia"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 90,
+            "fields": {
+              "user": 90,
+              "direccion": "Av. Virgen de Cotoca #2000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 91,
+            "fields": {
+              "user": 91,
+              "direccion": "Calle Aroma"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 92,
+            "fields": {
+              "user": 92,
+              "direccion": "Av. Banzer #3000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 93,
+            "fields": {
+              "user": 93,
+              "direccion": "Calle Suárez Arana"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 94,
+            "fields": {
+              "user": 94,
+              "direccion": "Av. Virgen de Luján #4000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 95,
+            "fields": {
+              "user": 95,
+              "direccion": "Calle La Paz"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 96,
+            "fields": {
+              "user": 96,
+              "direccion": "Av. Roca y Coronado #5000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 97,
+            "fields": {
+              "user": 97,
+              "direccion": "Calle Ñuflo de Chávez"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 98,
+            "fields": {
+              "user": 98,
+              "direccion": "Av. Santos Dumont #6000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 99,
+            "fields": {
+              "user": 99,
+              "direccion": "Calle Oruro #7000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 100,
+            "fields": {
+              "user": 100,
+              "direccion": "Av. Virgen de Cotoca #8000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 101,
+            "fields": {
+              "user": 101,
+              "direccion": "Calle Florida #9000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 102,
+            "fields": {
+              "user": 102,
+              "direccion": "Av. Cumavi #10000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 103,
+            "fields": {
+              "user": 103,
+              "direccion": "Calle Velarde #11000"
+            }
+          },
+          {
+            "model": "quickstart.userprofile",
+            "pk": 104,
+            "fields": {
+              "user": 104,
+              "direccion": "Av. Piraí #12000"
+            }
+          }
+     
+]

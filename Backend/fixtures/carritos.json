@@ -1,0 +1,98 @@
+[
+    {
+        "model": "quickstart.carrito",
+        "pk": 1,
+        "fields": {
+            "fecha_creacion": "2024-04-29T10:00:00Z",
+            "id_usuario": 1
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 2,
+        "fields": {
+            "fecha_creacion": "2024-04-29T11:00:00Z",
+            "id_usuario": 2
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 3,
+        "fields": {
+            "fecha_creacion": "2024-04-29T12:00:00Z",
+            "id_usuario": 3
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 4,
+        "fields": {
+            "fecha_creacion": "2024-04-29T13:00:00Z",
+            "id_usuario": 4
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 5,
+        "fields": {
+            "fecha_creacion": "2024-04-29T14:00:00Z",
+            "id_usuario": 5
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 6,
+        "fields": {
+            "fecha_creacion": "2024-04-29T15:00:00Z",
+            "id_usuario": 6
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 7,
+        "fields": {
+            "fecha_creacion": "2024-04-29T16:00:00Z",
+            "id_usuario": 7
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 8,
+        "fields": {
+            "fecha_creacion": "2024-04-29T17:00:00Z",
+            "id_usuario": 8
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 9,
+        "fields": {
+            "fecha_creacion": "2024-04-29T18:00:00Z",
+            "id_usuario": 9
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 10,
+        "fields": {
+            "fecha_creacion": "2024-04-29T19:00:00Z",
+            "id_usuario": 10
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 11,
+        "fields": {
+            "fecha_creacion": "2024-04-29T20:00:00Z",
+            "id_usuario": 11
+        }
+    },
+    {
+        "model": "quickstart.carrito",
+        "pk": 12,
+        "fields": {
+            "fecha_creacion": "2024-04-29T21:00:00Z",
+            "id_usuario": 12
+        }
+    }
+]

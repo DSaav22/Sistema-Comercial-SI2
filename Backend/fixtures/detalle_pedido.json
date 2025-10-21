@@ -1,0 +1,482 @@
+[
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 1,
+        "fields": {
+            "id_pedido": 1,
+            "id_producto": 10,
+            "cantidad": 2,
+            "precio": "50.00",
+            "precio_total": "100.00",
+            "fecha_creacion": "2024-04-29T10:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 2,
+        "fields": {
+            "id_pedido": 1,
+            "id_producto": 11,
+            "cantidad": 1,
+            "precio": "20.00",
+            "precio_total": "20.00",
+            "fecha_creacion": "2024-04-29T10:01:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 3,
+        "fields": {
+            "id_pedido": 2,
+            "id_producto": 12,
+            "cantidad": 3,
+            "precio": "30.00",
+            "precio_total": "90.00",
+            "fecha_creacion": "2024-04-29T11:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 4,
+        "fields": {
+            "id_pedido": 2,
+            "id_producto": 13,
+            "cantidad": 2,
+            "precio": "40.00",
+            "precio_total": "80.00",
+            "fecha_creacion": "2024-04-29T11:05:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 5,
+        "fields": {
+            "id_pedido": 3,
+            "id_producto": 14,
+            "cantidad": 1,
+            "precio": "100.00",
+            "precio_total": "100.00",
+            "fecha_creacion": "2024-04-29T12:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 6,
+        "fields": {
+            "id_pedido": 3,
+            "id_producto": 15,
+            "cantidad": 4,
+            "precio": "25.00",
+            "precio_total": "100.00",
+            "fecha_creacion": "2024-04-29T12:10:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 7,
+        "fields": {
+            "id_pedido": 4,
+            "id_producto": 16,
+            "cantidad": 2,
+            "precio": "60.00",
+            "precio_total": "120.00",
+            "fecha_creacion": "2024-04-29T13:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 8,
+        "fields": {
+            "id_pedido": 4,
+            "id_producto": 17,
+            "cantidad": 1,
+            "precio": "80.00",
+            "precio_total": "80.00",
+            "fecha_creacion": "2024-04-29T13:15:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 9,
+        "fields": {
+            "id_pedido": 5,
+            "id_producto": 18,
+            "cantidad": 3,
+            "precio": "35.00",
+            "precio_total": "105.00",
+            "fecha_creacion": "2024-04-29T14:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 10,
+        "fields": {
+            "id_pedido": 5,
+            "id_producto": 19,
+            "cantidad": 2,
+            "precio": "45.00",
+            "precio_total": "90.00",
+            "fecha_creacion": "2024-04-29T14:20:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 11,
+        "fields": {
+            "id_pedido": 1,
+            "id_producto": 12,
+            "cantidad": 1,
+            "precio": "30.00",
+            "precio_total": "30.00",
+            "fecha_creacion": "2024-04-29T10:05:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 12,
+        "fields": {
+            "id_pedido": 2,
+            "id_producto": 14,
+            "cantidad": 2,
+            "precio": "100.00",
+            "precio_total": "200.00",
+            "fecha_creacion": "2024-04-29T11:10:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 13,
+        "fields": {
+            "id_pedido": 3,
+            "id_producto": 16,
+            "cantidad": 1,
+            "precio": "60.00",
+            "precio_total": "60.00",
+            "fecha_creacion": "2024-04-29T12:20:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 14,
+        "fields": {
+            "id_pedido": 4,
+            "id_producto": 18,
+            "cantidad": 2,
+            "precio": "35.00",
+            "precio_total": "70.00",
+            "fecha_creacion": "2024-04-29T13:30:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 15,
+        "fields": {
+            "id_pedido": 5,
+            "id_producto": 10,
+            "cantidad": 1,
+            "precio": "50.00",
+            "precio_total": "50.00",
+            "fecha_creacion": "2024-04-29T14:30:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 16,
+        "fields": {
+            "id_pedido": 1,
+            "id_producto": 13,
+            "cantidad": 2,
+            "precio": "40.00",
+            "precio_total": "80.00",
+            "fecha_creacion": "2024-04-29T10:10:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 17,
+        "fields": {
+            "id_pedido": 2,
+            "id_producto": 15,
+            "cantidad": 1,
+            "precio": "25.00",
+            "precio_total": "25.00",
+            "fecha_creacion": "2024-04-29T11:20:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 18,
+        "fields": {
+            "id_pedido": 3,
+            "id_producto": 17,
+            "cantidad": 2,
+            "precio": "80.00",
+            "precio_total": "160.00",
+            "fecha_creacion": "2024-04-29T12:30:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 19,
+        "fields": {
+            "id_pedido": 4,
+            "id_producto": 19,
+            "cantidad": 1,
+            "precio": "45.00",
+            "precio_total": "45.00",
+            "fecha_creacion": "2024-04-29T13:40:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 20,
+        "fields": {
+            "id_pedido": 5,
+            "id_producto": 11,
+            "cantidad": 3,
+            "precio": "20.00",
+            "precio_total": "60.00",
+            "fecha_creacion": "2024-04-29T14:40:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 11,
+        "fields": {
+            "id_pedido": 1,
+            "id_producto": 12,
+            "cantidad": 1,
+            "precio": "30.00",
+            "precio_total": "30.00",
+            "fecha_creacion": "2024-04-29T10:05:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 12,
+        "fields": {
+            "id_pedido": 2,
+            "id_producto": 14,
+            "cantidad": 2,
+            "precio": "100.00",
+            "precio_total": "200.00",
+            "fecha_creacion": "2024-04-29T11:10:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 13,
+        "fields": {
+            "id_pedido": 3,
+            "id_producto": 16,
+            "cantidad": 1,
+            "precio": "60.00",
+            "precio_total": "60.00",
+            "fecha_creacion": "2024-04-29T12:20:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 14,
+        "fields": {
+            "id_pedido": 4,
+            "id_producto": 18,
+            "cantidad": 2,
+            "precio": "35.00",
+            "precio_total": "70.00",
+            "fecha_creacion": "2024-04-29T13:30:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 15,
+        "fields": {
+            "id_pedido": 5,
+            "id_producto": 10,
+            "cantidad": 1,
+            "precio": "50.00",
+            "precio_total": "50.00",
+            "fecha_creacion": "2024-04-29T14:30:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 16,
+        "fields": {
+            "id_pedido": 1,
+            "id_producto": 13,
+            "cantidad": 2,
+            "precio": "40.00",
+            "precio_total": "80.00",
+            "fecha_creacion": "2024-04-29T10:10:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 17,
+        "fields": {
+            "id_pedido": 2,
+            "id_producto": 15,
+            "cantidad": 1,
+            "precio": "25.00",
+            "precio_total": "25.00",
+            "fecha_creacion": "2024-04-29T11:20:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 18,
+        "fields": {
+            "id_pedido": 3,
+            "id_producto": 17,
+            "cantidad": 2,
+            "precio": "80.00",
+            "precio_total": "160.00",
+            "fecha_creacion": "2024-04-29T12:30:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 19,
+        "fields": {
+            "id_pedido": 4,
+            "id_producto": 19,
+            "cantidad": 1,
+            "precio": "45.00",
+            "precio_total": "45.00",
+            "fecha_creacion": "2024-04-29T13:40:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 20,
+        "fields": {
+            "id_pedido": 5,
+            "id_producto": 11,
+            "cantidad": 3,
+            "precio": "20.00",
+            "precio_total": "60.00",
+            "fecha_creacion": "2024-04-29T14:40:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 21,
+        "fields": {
+            "id_pedido": 1,
+            "id_producto": 14,
+            "cantidad": 2,
+            "precio": "100.00",
+            "precio_total": "200.00",
+            "fecha_creacion": "2024-04-29T10:15:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 22,
+        "fields": {
+            "id_pedido": 2,
+            "id_producto": 16,
+            "cantidad": 1,
+            "precio": "60.00",
+            "precio_total": "60.00",
+            "fecha_creacion": "2024-04-29T11:30:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 23,
+        "fields": {
+            "id_pedido": 3,
+            "id_producto": 18,
+            "cantidad": 2,
+            "precio": "35.00",
+            "precio_total": "70.00",
+            "fecha_creacion": "2024-04-29T12:40:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 24,
+        "fields": {
+            "id_pedido": 4,
+            "id_producto": 10,
+            "cantidad": 1,
+            "precio": "50.00",
+            "precio_total": "50.00",
+            "fecha_creacion": "2024-04-29T13:50:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 25,
+        "fields": {
+            "id_pedido": 5,
+            "id_producto": 12,
+            "cantidad": 2,
+            "precio": "30.00",
+            "precio_total": "60.00",
+            "fecha_creacion": "2024-04-29T14:50:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 26,
+        "fields": {
+            "id_pedido": 1,
+            "id_producto": 15,
+            "cantidad": 3,
+            "precio": "25.00",
+            "precio_total": "75.00",
+            "fecha_creacion": "2024-04-29T10:20:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 27,
+        "fields": {
+            "id_pedido": 2,
+            "id_producto": 17,
+            "cantidad": 2,
+            "precio": "80.00",
+            "precio_total": "160.00",
+            "fecha_creacion": "2024-04-29T11:40:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 28,
+        "fields": {
+            "id_pedido": 3,
+            "id_producto": 19,
+            "cantidad": 1,
+            "precio": "45.00",
+            "precio_total": "45.00",
+            "fecha_creacion": "2024-04-29T12:50:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 29,
+        "fields": {
+            "id_pedido": 4,
+            "id_producto": 11,
+            "cantidad": 2,
+            "precio": "20.00",
+            "precio_total": "40.00",
+            "fecha_creacion": "2024-04-29T14:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.detallepedido",
+        "pk": 30,
+        "fields": {
+            "id_pedido": 5,
+            "id_producto": 13,
+            "cantidad": 1,
+            "precio": "40.00",
+            "precio_total": "40.00",
+            "fecha_creacion": "2024-04-29T15:00:00Z"
+        }
+    }
+]

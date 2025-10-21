@@ -1,0 +1,77 @@
+[
+    {
+        "model": "quickstart.pedido",
+        "pk": 1,
+        "fields": {
+            "id_usuario": 1,
+            "id_carrito": 1,
+            "monto_total": "120.50",
+            "direccion_entrega": "Av. Beni #123",
+            "latitud": -17.783327,
+            "longitud": -63.182140,
+            "estado": "pendiente",
+            "fecha_creacion": "2024-04-29T10:00:00Z",
+            "fecha_modificacion": "2024-04-29T10:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.pedido",
+        "pk": 2,
+        "fields": {
+            "id_usuario": 2,
+            "id_carrito": 2,
+            "monto_total": "250.00",
+            "direccion_entrega": "Calle Libertad #456",
+            "latitud": -17.784000,
+            "longitud": -63.180000,
+            "estado": "confirmado",
+            "fecha_creacion": "2024-04-29T11:00:00Z",
+            "fecha_modificacion": "2024-04-29T11:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.pedido",
+        "pk": 3,
+        "fields": {
+            "id_usuario": 3,
+            "id_carrito": 3,
+            "monto_total": "320.50",
+            "direccion_entrega": "Av. San Martín #321",
+            "latitud": -17.785000,
+            "longitud": -63.181000,
+            "estado": "enviado",
+            "fecha_creacion": "2024-04-29T12:00:00Z",
+            "fecha_modificacion": "2024-04-29T12:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.pedido",
+        "pk": 4,
+        "fields": {
+            "id_usuario": 4,
+            "id_carrito": 4,
+            "monto_total": "99.99",
+            "direccion_entrega": "Calle Sucre #789",
+            "latitud": -17.786000,
+            "longitud": -63.182500,
+            "estado": "entregado",
+            "fecha_creacion": "2024-04-29T13:00:00Z",
+            "fecha_modificacion": "2024-04-29T13:00:00Z"
+        }
+    },
+    {
+        "model": "quickstart.pedido",
+        "pk": 5,
+        "fields": {
+            "id_usuario": 5,
+            "id_carrito": 5,
+            "monto_total": "450.00",
+            "direccion_entrega": "Av. Santos Dumont #100",
+            "latitud": -17.787000,
+            "longitud": -63.183000,
+            "estado": "cancelado",
+            "fecha_creacion": "2024-04-29T14:00:00Z",
+            "fecha_modificacion": "2024-04-29T14:00:00Z"
+        }
+    }
+]
