@@ -86,8 +86,16 @@ export const Navbar = () => {
 
             <div className="navbar-collapse d-flex justify-content-center w-100">
                 <div className="navbar-nav d-flex justify-content-center w-100">
-                    <NavLink className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`} to="/admin/admcart">
-                        Nombre Usuario
+                    <NavLink className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`} to="/products">
+                        Productos
+                    </NavLink>
+                    
+                    <NavLink className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`} to="/orders">
+                        Mis Pedidos
+                    </NavLink>
+                    
+                    <NavLink className={({ isActive }) => `nav-link ${isActive ? 'active' : ''}`} to="/reports">
+                        Reportes
                     </NavLink>
 
                     <form className="d-flex w-50 justify-content-center flex-grow-1" role="search">

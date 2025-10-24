@@ -26,6 +26,7 @@ import { CartPage } from "../views/pages/cart/CartPage";
 import { ConfirmPayPage } from "../views/pages/paymentMethods/ConfirmPayPage";
 import { CancelPayPage } from "../views/pages/paymentMethods/CancelPayPage";
 import { UserOrdersPage } from "../views/pages/order/UserOrdersPage";
+import { ReportsPage } from "../views/pages/reports/ReportsPage";
 
 
 
@@ -62,6 +63,7 @@ export const AppRouter = () => {
               <Route path="/success" element={<MainLayout><ConfirmPayPage /></MainLayout>} />
               <Route path="/cancel" element={<MainLayout><CancelPayPage /></MainLayout>} />
               <Route path="/orders" element={<MainLayout><UserOrdersPage /></MainLayout>} />
+              <Route path="/reports" element={<MainLayout><ReportsPage /></MainLayout>} />
 
               {/* Admin Pages con AdminLayout */}
               <Route path="/admin/*" element={<AdminLayout>

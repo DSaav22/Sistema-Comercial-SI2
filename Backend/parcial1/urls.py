@@ -62,4 +62,5 @@ urlpatterns += [
     path('api/ultimo_carrito/', ultimo_carrito_usuario),
     path('api/pagar/', iniciar_pago),
     path('api/stripe/webhook/', stripe_webhook),
+    path('api/reports/', include('sales_reports.urls')),
 ]
